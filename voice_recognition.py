@@ -1,3 +1,4 @@
+# pip install SpeechRecognition
 #import library
 import speech_recognition as sr
 
