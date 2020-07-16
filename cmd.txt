@@ -1,0 +1,3 @@
+for example
+
+ffmpeg -i MaximilienPary.aac MaximilienParyacc.wav
